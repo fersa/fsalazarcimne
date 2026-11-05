@@ -1,0 +1,23 @@
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Publications
+  url: /publications/
+  children:
+    - title: By date
+      url: /publications/by-date/
+    - title: By topic
+      url: /publications/by-topic/
+- title: Awards
+  url: /awards/
+- title: Outreach
+  url: /outreach/
+- title: Teaching
+  url: /teaching/
+- title: Technology Transfer
+  url: /technology-transfer/
+- title: Conference proceedings
+  url: /conference-proceedings/
+- title: Projects
+  url: /projects/

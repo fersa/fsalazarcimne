@@ -1,0 +1,19 @@
+title: Fernando Salazar González
+description: Civil Engineer, PhD. Machine learning for dam engineering and hydraulics. Researcher at CIMNE.
+author:
+  name: Fernando Salazar González
+  role: Civil Engineer, PhD. Director of CIMNE Madrid
+  email: fsalazar@cimne.upc.edu
+
+# Si el repositorio se llama tuusuario.github.io, deja baseurl vacío.
+# Si se llama de otra forma (p. ej. "web"), pon baseurl: "/web"
+url: ""
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - README.md
