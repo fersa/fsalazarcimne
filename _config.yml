@@ -7,8 +7,8 @@ author:
 
 # Si el repositorio se llama tuusuario.github.io, deja baseurl vacío.
 # Si se llama de otra forma (p. ej. "web"), pon baseurl: "/web"
-url: ""
-baseurl: ""
+url: "https://fersa.github.io"
+baseurl: "/fsalazarcimne"
 
 markdown: kramdown
 kramdown:
