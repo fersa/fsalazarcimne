@@ -17,6 +17,6 @@ hide_title: true
     <p class="email"><a href="mailto:fsalazar@cimne.upc.edu">fsalazar@cimne.upc.edu</a></p>
   </div>
   <figure class="home-photo">
-    <img src="{{ '/assets/img/home.jpg' | relative_url }}" alt="Fernando Salazar" onerror="this.parentElement.remove()">
+    <img src="{{ '/assets/img/home.png' | relative_url }}" alt="Fernando Salazar" onerror="this.parentElement.remove()">
   </figure>
 </section>

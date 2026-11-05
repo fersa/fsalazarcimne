@@ -1,4 +1,4 @@
 Coloca aquí tus fotos (opcional):
   profile.jpg  -> foto pequeña de la barra lateral (se recorta en círculo)
-  home.jpg     -> foto grande de la página de inicio
+  home.png     -> foto grande de la página de inicio
 Si no existen, la web simplemente no muestra la imagen.
