@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 ## As Principal Investigator
 
-1. [PID2024-157828OB-I00](https://cimne.com/research/projects/project-card/?id=1057). Dam Structural Heatlh Monitoring and Safety Assessment with an AI Agent (DAMSHAI). Spanish Ministry for Science, Innovation and Universities. 01/09/2025-31/08/2028. CIMNE funding: 126.250 €
+1. [PID2024-157828OB-I00](https://cimne.com/research/projects/project-card/?id=1057). Dam Structural Health Monitoring and Safety Assessment with an AI Agent (DAMSHAI). Spanish Ministry for Science, Innovation and Universities. 01/09/2025-31/08/2028. CIMNE funding: 126.250 €
 2. [PID2021-122661OB-I00](https://cimne.com/research/projects/project-card/?id=923), Dam safety contrOL with dynamic warning thresholds combining numerical Models and machinE learNing (DOLMEN). Spanish Ministry for Science and Innovation. 01/09/2022-31/08/2025. CIMNE funding: 131.285 €
 3. [TED2021-129969B-C33. DIGIT4WATER](https://cimne.com/research/projects/project-card/?id=938). Development of digital tools based on Machine Learning models for the prediction of removal levels of different pollutants in advanced tertiary treatments. Ministry for Science and Innovation. 01/12/2022-31/11/2024. CIMNE funding: 120.750 €
 4. [RTI2018-094785-B-I00, TRISTAN](https://cimne.com/research/projects/project-card/?id=846) - New computational Tools for RelIability-based dam SafeTy AssessmeNt. Spanish Ministry for Science and Innovation. 01/01/2019-31/12/2021. CIMNE funding: 96.800 €.

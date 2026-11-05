@@ -12,7 +12,7 @@ permalink: /teaching/
 ## Supervision of PhD Thesis
 
 - [Shakib Ayoubzadeh](https://www.linkedin.com/in/shakib-ayoubzadeh-34400b202/). "Uncertainty-Aware Multiphysics Modelling of Concrete Dams Using Machine Learning Surrogates". UPC Barcelona Tech. 2026-2029. Co-supervisor
-- [Aryan Baibordy](https://www.linkedin.com/in/aryan-baibordy/). "Dam Structural Heatlh Monitoring and Safety Assessment with an AI Agent". UPC Barcelona Tech. 2026-2030. Co-supervisor
+- [Aryan Baibordy](https://www.linkedin.com/in/aryan-baibordy/). "Dam Structural Health Monitoring and Safety Assessment with an AI Agent". UPC Barcelona Tech. 2026-2030. Co-supervisor
 - [Sergio López-Chacón](https://www.linkedin.com/in/sergiolopezchacon/). "Enhanced short-term prediction of high streamflow combining physically based and machine learning models". UPC Barcelona Tech. June 11, 2026 Excellent Cum Laude. Co-supervisor
 - [Nathalia Silva-Cancino](https://www.linkedin.com/in/nathalia-silvac992/). ["Evaluation of potential hazard due to off-stream reservoir failure using machine learning techniques"](https://upcommons.upc.edu/entities/publication/7e724b57-ceaf-4529-89a9-faa4ac96edd9). UPC Barcelona Tech. 2024. Excellent Cum Laude. Co-supervisor.
 - Javier San Mauro. [“Wedge-Shaped Block Spillway Design”](https://oa.upm.es/52510/). ETSICCP, UPM. González Cruz Prize for the best PhD thesis in hydraulic and dam engineering at UPM. Unofficial supervisor. 2018
@@ -24,7 +24,7 @@ permalink: /teaching/
 - [Christian Tutivén](https://www.fimcp.espol.edu.ec/archive/es/cv/tutiven_galvez_christian_javier) (ESPOL, Ecuador). 29/5/2024-31/7/2024. Research on the use of deep learning in dam structural health monitoring. Submitted contribution to 16th International Workshop on Advanced Smart Materials and Smart Structures Technology & 4th ZHITU Symposium on Advances in Civil Engineering. Scientific article under review (see above).
 - [Caterina Nogara](https://re.public.polimi.it/cris/rp/rp28841) (Politécnico di Milano). 6/5/2024-31/7/2024 Research on unsupervised machine learning methods for anomaly detection and localization in dams. Contribution presented at the 17th Benchmark Workshop on Numerical Analysis of Dams (Sophia, Bulgaria, April 2025). Scientific article under review (see above).
 - [Christian Galarza](https://scholar.google.com.br/citations?user=mwGHh5MAAAAJ&hl=es) (ESPOL, Ecuador). 1/10/2024-18/10/2024. Exploration of opportunities for collaboration on the application of machine learning and artificial intelligence on projects DOLMEN and DIGIT4WATER.
-- [Frosina Panovska](https://www.linkedin.com/in/frosina-panovska/) (Faculty of Civil Engineering - Skopje). 29/11/2025-6/12/2025. Research on the application of machine learning and computational methods in dam safety assessment in the framework of the DAMSHAI Project: Dam Structural Heatlh Monitoring and Safety Assessment with an AI-driven framework.
+- [Frosina Panovska](https://www.linkedin.com/in/frosina-panovska/) (Faculty of Civil Engineering - Skopje). 29/11/2025-6/12/2025. Research on the application of machine learning and computational methods in dam safety assessment in the framework of the DAMSHAI Project: Dam Structural Health Monitoring and Safety Assessment with an AI-driven framework.
 
 ## Courses, Talks and Seminars
 

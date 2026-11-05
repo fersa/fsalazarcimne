@@ -7,7 +7,7 @@ permalink: /outreach/
 
 - “Vocal Colaborador” at Spanish Committee on Large Dams (SPANCOLD).
 - Member of the Technical Committee on Dam Surveillance (Committee “Q”) of SPANCOLD.
-- Technical Secretary of the Technical Committee on Numerical Analysis of Dams (Commitee “A”) of SPANCOLD.
+- Technical Secretary of the Technical Committee on Numerical Analysis of Dams (Committee “A”) of SPANCOLD.
 - Co-opted Member of the Technical Committee on Dam Surveillance (Committee “Q”) of the International Committee on Large Dams (ICOLD)
 - Recently proposed as Spanish representative in the Technical Committee on Numerical Analysis of Dams (Committee “A") of ICOLD.
 - Member of the International Association for Hydro-Environment Engineering and Research (IAHR)

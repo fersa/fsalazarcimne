@@ -27,7 +27,6 @@ permalink: /publications/by-date/
 3. Vicente, D.J., Salazar, F., López-Chacón, S.R., Soriano, C., Martin-Vide, J., 2024. Evaluation of different machine learning approaches for predicting high concentration episodes of ground-level ozone: A case study in Catalonia, Spain. Atmospheric Pollution Research 15, 101999. <https://doi.org/10.1016/j.apr.2023.101999>
 4. Salazar, F., Irazábal, J., Conde, A., 2024. SOLDIER: SOLution for Dam behavior Interpretation and safety Evaluation with boosted Regression trees. SoftwareX 25, 101598. <https://doi.org/10.1016/j.softx.2023.101598>
 5. Sanz-Ramos, M., Bladé, E., Silva-Cancino, N., Salazar, F., 2024. Avances en Iber para la clasificación de balsas: proyecto ACROPOLIS. Ingeniería del agua 28, 47–63. <https://doi.org/10.4995/ia.2024.20609>
-6. Silva-Cancino, N., Salazar, F., Bladé, E., Sanz-Ramos, M., 2024. Influence of breach parameter models on hazard classification of off-stream reservoirs. Water Science and Engineering. <https://doi.org/10.1016/j.wse.2024.05.001>
 
 ## 2023
 
