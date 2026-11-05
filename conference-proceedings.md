@@ -5,18 +5,19 @@ permalink: /conference-proceedings/
 ---
 ## Invited Lectures
 
-1. ["Large language models in dam engineering: capabilities, failure modes and the engineer's responsibility"](https://hdl.handle.net/2117/478933). Seminar organized by the Macedonian Committee on Large Dams (MACOLD). September 16, 2026.
-2. "The Potential of AI in Digital Twins for Dams". Special Lecture at the Seminar ["Digital Twins for Water Management & Infrastructures"](https://lnkd.in/p/esSWnEsc). UPM: Higher Technical School of Civil Engineers. Madrid, Spain, June 16, 2026.
-3. "Applications of Generative AI in Dam Engineering. Experiences from SPANCOLD". [Workshop on Smart Dams](https://lnkd.in/p/envXBhjQ) organized by the Chinese Committee on Large Dams (CHINCOLD) within the 94th ICOLD Annual Meeting in Guadalajara, Mexico, May 26, 2026.
-4. "Machine Learning Techniques for Effective Dam Diagnostic Analysis". [Workshop on New Bulletins on “Dam Surveillance, Performance Monitoring Data” and “Dam Surveillance, Data & Observations”](https://lnkd.in/p/envXBhjQ). ICOLD Committee Q on Dam Surveillance. 94th ICOLD Annual Meeting in Guadalajara, Mexico, May 23-29, 2026.
-5. ["Large Language Models. Fundamentos y Aplicaciones en Ingeniería de Presas"](https://lnkd.in/p/e8ihk6HC). Workshop of the Technical Committee A on Computational Aspects of Analysis and Design of Dams. XIV SPANCOLD Conference. Granada, Spain, May 11, 2026.
-6. ["Dam Safety in the Era of AI: Possibilities, Applications, Limitations and Future Perspectives"](https://www.linkedin.com/posts/fernando-salazar-cimne-upc_last-week-i-had-the-pleasure-of-visiting-activity-7432385243086696448-cK04). Seminar at the [Faculdade de Engenharia da Universidade do Porto](https://www.linkedin.com/company/feup/) (18/02/2026)
-7. [“Applications, possibilities and limitations of machine learning and artificial intelligence in dam engineering”](https://www.linkedin.com/posts/fernando-salazar-cimne-upc_dam-engineering-skopje-activity-7249079411113611264-4eue). 75th Anniversary of the Faculty of Civil Engineering at Ss. Cyril and Methodius University in Skopje, North Macedonia, 2024
-8. “Analysis of dam monitoring data with machine learning: fundamentals, possibilities and free-use software”. Delivered at the meeting of the Committee A of SPANCOLD during the “[Jornadas Españolas de Presas](https://www.spancold.org/event/xiii-jornadas-espanolas-de-presas/)”, Barcelona, June, 2024.
-9. “Combination of advanced numerical methods and machine learning for dam safety assessment”. 11th ICOLD European Club Symposium, Chania, Greece, October 2019
-10. “New technologies for strengthening dam safety and resilience”. Meeting of the European Club of National Committees of ICOLD. Vienna, Austria, 2018.
-11. “The role of numerical models in research and design of dam spillways”. CEDEX, Madrid, Spain, 2013.
-12. “Development of numerical methods at CIMNE for dam safety analysis”. US Bureau of Reclamation (USBR). Denver, Colorado, USA, 2010.
+1. "Artificial Intelligence in Support of the Operation and Safety of Hydropower Schemes". LNEC Lisbon Conference "Dams and Energy Transition". Lisbon, Portugal, October 21–22, 2026.
+2. ["Large language models in dam engineering: capabilities, failure modes and the engineer's responsibility"](https://hdl.handle.net/2117/478933). Seminar organized by the Macedonian Committee on Large Dams (MACOLD). September 16, 2026.
+3. "The Potential of AI in Digital Twins for Dams". Special Lecture at the Seminar ["Digital Twins for Water Management & Infrastructures"](https://lnkd.in/p/esSWnEsc). UPM: Higher Technical School of Civil Engineers. Madrid, Spain, June 16, 2026.
+4. "Applications of Generative AI in Dam Engineering. Experiences from SPANCOLD". [Workshop on Smart Dams](https://lnkd.in/p/envXBhjQ) organized by the Chinese Committee on Large Dams (CHINCOLD) within the 94th ICOLD Annual Meeting in Guadalajara, Mexico, May 26, 2026.
+5. "Machine Learning Techniques for Effective Dam Diagnostic Analysis". [Workshop on New Bulletins on “Dam Surveillance, Performance Monitoring Data” and “Dam Surveillance, Data & Observations”](https://lnkd.in/p/envXBhjQ). ICOLD Committee Q on Dam Surveillance. 94th ICOLD Annual Meeting in Guadalajara, Mexico, May 23-29, 2026.
+6. ["Large Language Models. Fundamentos y Aplicaciones en Ingeniería de Presas"](https://lnkd.in/p/e8ihk6HC). Workshop of the Technical Committee A on Computational Aspects of Analysis and Design of Dams. XIV SPANCOLD Conference. Granada, Spain, May 11, 2026.
+7. ["Dam Safety in the Era of AI: Possibilities, Applications, Limitations and Future Perspectives"](https://www.linkedin.com/posts/fernando-salazar-cimne-upc_last-week-i-had-the-pleasure-of-visiting-activity-7432385243086696448-cK04). Seminar at the [Faculdade de Engenharia da Universidade do Porto](https://www.linkedin.com/company/feup/) (18/02/2026)
+8. [“Applications, possibilities and limitations of machine learning and artificial intelligence in dam engineering”](https://www.linkedin.com/posts/fernando-salazar-cimne-upc_dam-engineering-skopje-activity-7249079411113611264-4eue). 75th Anniversary of the Faculty of Civil Engineering at Ss. Cyril and Methodius University in Skopje, North Macedonia, 2024
+9. “Analysis of dam monitoring data with machine learning: fundamentals, possibilities and free-use software”. Delivered at the meeting of the Committee A of SPANCOLD during the “[Jornadas Españolas de Presas](https://www.spancold.org/event/xiii-jornadas-espanolas-de-presas/)”, Barcelona, June, 2024.
+10. “Combination of advanced numerical methods and machine learning for dam safety assessment”. 11th ICOLD European Club Symposium, Chania, Greece, October 2019
+11. “New technologies for strengthening dam safety and resilience”. Meeting of the European Club of National Committees of ICOLD. Vienna, Austria, 2018.
+12. “The role of numerical models in research and design of dam spillways”. CEDEX, Madrid, Spain, 2013.
+13. “Development of numerical methods at CIMNE for dam safety analysis”. US Bureau of Reclamation (USBR). Denver, Colorado, USA, 2010.
 
 ## Conference Proceedings
 
