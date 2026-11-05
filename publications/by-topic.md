@@ -5,23 +5,24 @@ permalink: /publications/by-topic/
 ---
 ## Dams - Machine Learning
 
-1. Nogara, C., Salazar, F., 2026. Damage Detection and Localization on Dams Using Autoencoders. NDT and E International. 103696. <https://doi.org/10.1016/j.ndteint.2026.103696>
-2. Tutivén, C., Moyón, L., & Salazar, F. (2025). A robust approach for anomaly detection using 1D convolutional Siamese neural networks to enhance structural health monitoring in dams. Structural Health Monitoring, 14759217251372614. <https://doi.org/10.1177/14759217251372614>
-3. Silva-Cancino, N.; Salazar, F.; Irazábal, J.; Mata, J. Adaptive Warning Thresholds for Dam Safety: A KDE-Based Approach. Infrastructures 2025, 10, 158. <https://doi.org/10.3390/infrastructures10070158>
-4. Irazábal, J., Salazar, F., Silva-Cancino, N., Vicente, D.J., 2025. Detection of outliers in dam monitoring time series with autoencoders. J Civil Struct Health Monit. <https://doi.org/10.1007/s13349-025-00910-4>
-5. Salazar, F., Irazábal, J., Conde, A., 2024. SOLDIER: SOLution for Dam behavior Interpretation and safety Evaluation with boosted Regression trees. SoftwareX 25, 101598. <https://doi.org/10.1016/j.softx.2023.101598>
-6. Silva-Cancino, N., Salazar, F., Bladé, E., 2024. ACROPOLIS: A graphical user interface for classification of risk for off-stream reservoirs using machine learning. SoftwareX 26, 101657. <https://doi.org/10.1016/j.softx.2024.101657>
-7. Hariri-Ardebili, M.A., Salazar, F., Pourkamali-Anaraki, F., Mazzà, G., Mata, J., 2023. Soft Computing and Machine Learning in Dam Engineering. Water 15, 917. <https://doi.org/10.3390/w15050917>
-8. Salazar, F., Hariri-Ardebili, M.A., 2022. Coupling machine learning and stochastic finite element to evaluate heterogeneous concrete infrastructure. Engineering Structures 260, 114190. <https://doi.org/10.1016/j.engstruct.2022.114190>
-9. Silva-Cancino, N., Salazar, F., Sanz-Ramos, M., Bladé, E., 2022. A Machine Learning-Based Surrogate Model for the Identification of Risk Zones Due to Off-Stream Reservoir Failure. Water 14, 2416. <https://doi.org/10.3390/w14152416>
-10. Mata, J., Salazar, F., Barateiro, J., & Antunes, A. (2021). Validation of Machine Learning Models for Structural Dam Behaviour Interpretation and Prediction. Water, 13(19), 2717. <https://doi.org/10.3390/w13192717>
-11. Salazar, F., Conde, A., Irazábal, J., & Vicente, D. J. (2021). Anomaly Detection in Dam Behaviour with Machine Learning Classification Models. Water, 13(17), 2387. <https://doi.org/10.3390/w13172387>
-12. Hariri-Ardebili, M. A., & Salazar, F. (2019). Engaging soft computing in material and modeling uncertainty quantification of dam engineering problems. Soft Computing. <https://doi.org/10.1007/s00500-019-04623-x>
-13. Salazar, Fernando, & Crookston, B. M. (2019). A Performance Comparison of Machine Learning Algorithms for Arced Labyrinth Spillways. Water, 11(3), 544. <https://doi.org/10.3390/w11030544>
-14. Salazar, F., Morán, R., Toledo, M. Á., & Oñate, E. (2017). Data-Based Models for the Prediction of Dam Behaviour: A Review and Some Methodological Considerations. Arch Comp Methods Eng, 24(1), 1-21. <https://doi.org/10.1007/s11831-015-9157-9>
-15. Salazar, F., Toledo, M. Á., González, J. M., & Oñate, E. (2017). Early detection of anomalies in dam performance: A methodology based on boosted regression trees. Structural Control and Health Monitoring, 24(11), e2012. <https://doi.org/10.1002/stc.2012>
-16. Salazar, F., Toledo, M. Á., Oñate, E., & Suárez, B. (2016). Interpretation of dam deformation and leakage with boosted regression trees. Engineering Structures, 119, 230-251. <https://doi.org/10.1016/j.engstruct.2016.04.012>
-17. Salazar, F., Toledo, M. A., Oñate, E., & Morán, R. (2015). An empirical comparison of machine learning techniques for dam behaviour modelling. Structural Safety, 56, 9-17. <https://doi.org/10.1016/j.strusafe.2015.05.001>
+1. Salazar, F., Baibordy, A., González, J. M., & Mata, J. (2026). Evaluating ChatGPT for Dam Behavior Prediction, Interpretation, and Safety Assessment: An Experimental Study. Machine Learning and Knowledge Extraction, 8(10), 333. <https://doi.org/10.3390/make8100333>
+2. Nogara, C., Salazar, F., 2026. Damage Detection and Localization on Dams Using Autoencoders. NDT and E International. 103696. <https://doi.org/10.1016/j.ndteint.2026.103696>
+3. Tutivén, C., Moyón, L., & Salazar, F. (2025). A robust approach for anomaly detection using 1D convolutional Siamese neural networks to enhance structural health monitoring in dams. Structural Health Monitoring, 14759217251372614. <https://doi.org/10.1177/14759217251372614>
+4. Silva-Cancino, N.; Salazar, F.; Irazábal, J.; Mata, J. Adaptive Warning Thresholds for Dam Safety: A KDE-Based Approach. Infrastructures 2025, 10, 158. <https://doi.org/10.3390/infrastructures10070158>
+5. Irazábal, J., Salazar, F., Silva-Cancino, N., Vicente, D.J., 2025. Detection of outliers in dam monitoring time series with autoencoders. J Civil Struct Health Monit. <https://doi.org/10.1007/s13349-025-00910-4>
+6. Salazar, F., Irazábal, J., Conde, A., 2024. SOLDIER: SOLution for Dam behavior Interpretation and safety Evaluation with boosted Regression trees. SoftwareX 25, 101598. <https://doi.org/10.1016/j.softx.2023.101598>
+7. Silva-Cancino, N., Salazar, F., Bladé, E., 2024. ACROPOLIS: A graphical user interface for classification of risk for off-stream reservoirs using machine learning. SoftwareX 26, 101657. <https://doi.org/10.1016/j.softx.2024.101657>
+8. Hariri-Ardebili, M.A., Salazar, F., Pourkamali-Anaraki, F., Mazzà, G., Mata, J., 2023. Soft Computing and Machine Learning in Dam Engineering. Water 15, 917. <https://doi.org/10.3390/w15050917>
+9. Salazar, F., Hariri-Ardebili, M.A., 2022. Coupling machine learning and stochastic finite element to evaluate heterogeneous concrete infrastructure. Engineering Structures 260, 114190. <https://doi.org/10.1016/j.engstruct.2022.114190>
+10. Silva-Cancino, N., Salazar, F., Sanz-Ramos, M., Bladé, E., 2022. A Machine Learning-Based Surrogate Model for the Identification of Risk Zones Due to Off-Stream Reservoir Failure. Water 14, 2416. <https://doi.org/10.3390/w14152416>
+11. Mata, J., Salazar, F., Barateiro, J., & Antunes, A. (2021). Validation of Machine Learning Models for Structural Dam Behaviour Interpretation and Prediction. Water, 13(19), 2717. <https://doi.org/10.3390/w13192717>
+12. Salazar, F., Conde, A., Irazábal, J., & Vicente, D. J. (2021). Anomaly Detection in Dam Behaviour with Machine Learning Classification Models. Water, 13(17), 2387. <https://doi.org/10.3390/w13172387>
+13. Hariri-Ardebili, M. A., & Salazar, F. (2019). Engaging soft computing in material and modeling uncertainty quantification of dam engineering problems. Soft Computing. <https://doi.org/10.1007/s00500-019-04623-x>
+14. Salazar, Fernando, & Crookston, B. M. (2019). A Performance Comparison of Machine Learning Algorithms for Arced Labyrinth Spillways. Water, 11(3), 544. <https://doi.org/10.3390/w11030544>
+15. Salazar, F., Morán, R., Toledo, M. Á., & Oñate, E. (2017). Data-Based Models for the Prediction of Dam Behaviour: A Review and Some Methodological Considerations. Arch Comp Methods Eng, 24(1), 1-21. <https://doi.org/10.1007/s11831-015-9157-9>
+16. Salazar, F., Toledo, M. Á., González, J. M., & Oñate, E. (2017). Early detection of anomalies in dam performance: A methodology based on boosted regression trees. Structural Control and Health Monitoring, 24(11), e2012. <https://doi.org/10.1002/stc.2012>
+17. Salazar, F., Toledo, M. Á., Oñate, E., & Suárez, B. (2016). Interpretation of dam deformation and leakage with boosted regression trees. Engineering Structures, 119, 230-251. <https://doi.org/10.1016/j.engstruct.2016.04.012>
+18. Salazar, F., Toledo, M. A., Oñate, E., & Morán, R. (2015). An empirical comparison of machine learning techniques for dam behaviour modelling. Structural Safety, 56, 9-17. <https://doi.org/10.1016/j.strusafe.2015.05.001>
 
 ## Dams - Numerical Methods
 

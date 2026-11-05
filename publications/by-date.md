@@ -7,7 +7,8 @@ permalink: /publications/by-date/
 
 ## 2026
 
-1. Nogara, C., Salazar, F., 2026. Damage Detection and Localization on Dams Using Autoencoders. NDT and E International. 103696. <https://doi.org/10.1016/j.ndteint.2026.103696>
+1. Salazar, F., Baibordy, A., González, J. M., & Mata, J. (2026). Evaluating ChatGPT for Dam Behavior Prediction, Interpretation, and Safety Assessment: An Experimental Study. Machine Learning and Knowledge Extraction, 8(10), 333. <https://doi.org/10.3390/make8100333>
+2. Nogara, C., Salazar, F., 2026. Damage Detection and Localization on Dams Using Autoencoders. NDT and E International. 103696. <https://doi.org/10.1016/j.ndteint.2026.103696>
 
 ## 2025
 
