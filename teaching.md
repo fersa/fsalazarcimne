@@ -25,6 +25,7 @@ permalink: /teaching/
 - [Caterina Nogara](https://re.public.polimi.it/cris/rp/rp28841) (Politécnico di Milano). 6/5/2024-31/7/2024 Research on unsupervised machine learning methods for anomaly detection and localization in dams. Contribution presented at the 17th Benchmark Workshop on Numerical Analysis of Dams (Sophia, Bulgaria, April 2025). Scientific article under review (see above).
 - [Christian Galarza](https://scholar.google.com.br/citations?user=mwGHh5MAAAAJ&hl=es) (ESPOL, Ecuador). 1/10/2024-18/10/2024. Exploration of opportunities for collaboration on the application of machine learning and artificial intelligence on projects DOLMEN and DIGIT4WATER.
 - [Frosina Panovska](https://www.linkedin.com/in/frosina-panovska/) (Faculty of Civil Engineering - Skopje). 29/11/2025-6/12/2025. Research on the application of machine learning and computational methods in dam safety assessment in the framework of the DAMSHAI Project: Dam Structural Health Monitoring and Safety Assessment with an AI-driven framework.
+- Servet Mert Kutsal (Kocaeli University, Türkiye). 5/10/2026-9/10/2026. Erasmus+ Staff Mobility for Training Assignment (STT).
 
 ## Courses, Talks and Seminars
 
