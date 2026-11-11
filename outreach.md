@@ -29,6 +29,7 @@ Co-organizer:
 
 - Associate Editor at Frontiers of the Built Environment – [Dam Engineering and Design](https://www.frontiersin.org/journals/built-environment/sections/dam-engineering-and-design/editors) Section
 - Member of PhD Thesis Jury:
+  - [Advancement in Management of Water Resources Systems with Application of Machine Learning](https://lnkd.in/p/en-rnGFK). Author: Frosina Panovska. Ss. Cyril and Methodius University in Skopje, Faculty of Civil Engineering, North Macedonia. 15/09/2026.
   - [Increasing Robustness of Critical Infrastructures Assessment Using Artificial Intelligence and Structural Monitoring](https://repositorio-aberto.up.pt/handle/10216/173829). Author: Fabiana Miranda. Supervisors: Juan Mata, Xavier Romão and João Pedro Santos. [Faculdade de Engenharia da Universidade do Porto](https://www.linkedin.com/company/feup/), 18/02/2026.
   - [Numerical modelling of non-Newtonian shallow flows](https://cimne.com/vnews/2797/12243/phd-thesis-defense---numerical-modelling-of-non-newtonian-shallow-flows-by-marcos-sanz). Author: Marcos Sanz-Ramos. Supervisor: Ernest Bladé. UPC, 2024.
   - [Grain Size Analyses of Soils Based on Image Analysis Techniques and Machine Learning](https://espace.etsmtl.ca/id/eprint/3076/). Author: Mohammad Javad Manashti. Supervisor: François Duhaime. École de Technologie Supérieure. Université du Québec, Canada (2022).
